@@ -1,0 +1,5 @@
+https://github.com/rails/rails
+https://github.com/jekyll/jekyll
+https://github.com/huginn/huginn
+https://github.com/fastlane/fastlane
+https://github.com/Homebrew/brew

@@ -1,0 +1,5 @@
+https://github.com/iluwatar/java-design-patterns
+https://github.com/spring-projects/spring-boot
+https://github.com/spring-projects/spring-framework
+https://github.com/google/guava
+https://github.com/square/retrofit

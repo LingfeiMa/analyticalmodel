@@ -1,0 +1,5 @@
+https://github.com/ohmyzsh/ohmyzsh
+https://github.com/gothinkster/realworld
+https://github.com/nvm-sh/nvm
+https://github.com/pi-hole/pi-hole
+https://github.com/open-guides/og-aws

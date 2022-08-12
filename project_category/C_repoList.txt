@@ -1,0 +1,5 @@
+https://github.com/Genymobile/scrcpy
+https://github.com/netdata/netdata
+https://github.com/redis/redis
+https://github.com/obsproject/obs-studio
+https://github.com/php/php-src

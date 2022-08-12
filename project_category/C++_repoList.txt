@@ -1,0 +1,5 @@
+https://github.com/tensorflow/tensorflow
+https://github.com/electron/electron
+https://github.com/microsoft/terminal
+https://github.com/bitcoin/bitcoin
+https://github.com/opencv/opencv
