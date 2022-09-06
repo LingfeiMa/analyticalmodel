@@ -4,7 +4,7 @@ import pandas as pd
 
 
 def paint(json_fn: str, csv_name: str):
-    json_file = open(json_fn, "r")  # 输入需要转换的json文件
+    json_file = open(json_fn, "r")  
     item_list = json.load(json_file)
     # TW1:2019.01-2022.04
     # TW2:2019.01-2019.11
